@@ -83,6 +83,8 @@ ul li {
     cursor: pointer;
     position: relative;
     text-transform: capitalize;
+    background-color: #d6c0da;
+    margin-block-start: 10px;
 }
 
 ul li::before {
